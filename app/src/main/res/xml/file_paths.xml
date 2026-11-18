@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="pinkscan_docs" path="pinkscan_docs/" />
+    <files-path name="pinkscan_scans" path="pinkscan_scans/" />
+    <files-path name="pinkscan_exports" path="pinkscan_exports/" />
+    <cache-path name="pinkscan_cache" path="/" />
+</paths>

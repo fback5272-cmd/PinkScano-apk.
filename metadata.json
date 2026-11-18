@@ -1,0 +1,6 @@
+{
+  "name": "PinkScan",
+  "description": "PinkScan - PDF Maker & Document Scanner for scanning documents, converting images to PDF, OCR text extraction, PDF editing, signing, and sharing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

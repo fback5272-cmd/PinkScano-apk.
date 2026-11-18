@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PinkScan</string>
+    <string name="app_tagline">Scan • Create • Edit • Share</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+    <string name="camera_permission_title">Camera Access Needed</string>
+    <string name="camera_permission_rationale">PinkScan uses your camera to scan documents, receipts, ID cards, and pages directly on your device.</string>
+    <string name="grant_camera_permission">Allow Camera</string>
+    <string name="privacy_summary">All scans, OCR text extraction, signatures, and PDF edits happen 100% locally on your device. No files are uploaded to external servers.</string>
+</resources>
